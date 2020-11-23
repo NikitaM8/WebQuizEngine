@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.hyperskill:hs-test:release-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.hyperskill/hs-test/release-SNAPSHOT/d1175d7c02ae30ec0dc4b424f7d0db826112f75b/hs-test-release-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.hyperskill/hs-test/release-SNAPSHOT/a23cdd837018519246e3f7069d4be9377eb8c8af/hs-test-release-SNAPSHOT-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.hyperskill/hs-test/release-SNAPSHOT/5cc3137a99841bbaede7e0288b86a93a68c9813a/hs-test-release-SNAPSHOT-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.hyperskill/hs-test/release-SNAPSHOT/5eae104411b43c24ce921b3392f4e6ff3c5f17bc/hs-test-release-SNAPSHOT-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.hyperskill/hs-test/release-SNAPSHOT/9a4a8cae1ab193daa4879c1031b1f608749c50ac/hs-test-release-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

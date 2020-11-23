@@ -1,0 +1,34 @@
+engine/WebQuizEngine.java
+ engine.WebQuizEngine
+engine/exception/ForbiddenException.java
+ engine.exception.ForbiddenException
+engine/entity/Answer.java
+ engine.entity.Answer
+engine/entity/Role.java
+ engine.entity.Role
+engine/exception/QuizNotFoundException.java
+ engine.exception.QuizNotFoundException
+engine/repository/UserRepository.java
+ engine.repository.UserRepository
+engine/repository/CompletionRepository.java
+ engine.repository.CompletionRepository
+engine/entity/User.java
+ engine.entity.User
+engine/service/CompletionService.java
+ engine.service.CompletionService
+engine/entity/Quiz.java
+ engine.entity.Quiz
+engine/service/UserService.java
+ engine.service.UserService
+engine/repository/QuizRepository.java
+ engine.repository.QuizRepository
+engine/config/WebSecurityConfig.java
+ engine.config.WebSecurityConfig
+engine/entity/ResultAnswer.java
+ engine.entity.ResultAnswer
+engine/entity/Completion.java
+ engine.entity.Completion
+engine/service/QuizService.java
+ engine.service.QuizService
+engine/controller/QuizController.java
+ engine.controller.QuizController
