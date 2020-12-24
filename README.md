@@ -1,5 +1,5 @@
 # WebQuizEngine
-A web quiz engine platfrom wich provides basic operations, such as add new quiz, delete your quiz, solve random quiz, get certain quiz and more.
+A web quiz engine platfrom which provides basic operations, such as add new quiz, delete your quiz, solve random quiz, get certain quiz and more.
 Platform uses basic http authhentication with bCrypt. All information persists in H2 database. Service developed using Spring Boot.
 
 ## Main functionality of API (requests)
